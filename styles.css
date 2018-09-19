@@ -1,0 +1,23 @@
+body {
+    background-color: red;
+}
+div {
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: white;
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: white
+}
+
